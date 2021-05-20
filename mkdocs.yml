@@ -1,0 +1,21 @@
+site_name: Sakagiri
+theme:
+    name: material
+    palette:
+        primary: red
+        accent: red
+nav:
+    - Home: "index.md"
+    - Commands: "commands.md"
+    - Credits: "credits.md"
+    - Invite Sakagiri: "https://discord.com/oauth2/authorize?client_id=828605986511388733&permissions=537168896&scope=bot"
+plugins:
+    - img2fig
+    - blog
+    - search
+    - autolinks
+copyright: "<b>Sakagiri</b> - <b>acayrin</b>"
+markdown_extensions:
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
