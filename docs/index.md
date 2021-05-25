@@ -23,8 +23,3 @@ Alternatively Sakagiri can generates a quick single level leveling guide for you
 <span style="font-size: 13px">
 **(\*)** Sakagiri fetches monsters based on highest EXP amount per level, **NOT** based on popularity
 </span>
-
-<hr>
-
-## :material-discord: Join the test server
-<iframe src="https://canary.discord.com/widget?id=838016418180104243&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

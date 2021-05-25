@@ -75,3 +75,27 @@ Show a list of detailed leveling guide based on given level(s)
 All arguments can be used at the same time
 
 + `` -s lvl 150 200 -b -a -e 69 -pm ``
+
+<hr>
+
+### -s subscribe (Subscribe command)
+
+Add current channel to recieve Toram news
+
+**Use** ``-s sub``
+
+<hr>
+
+### -s tip (Tips command)
+
+Get a Toram game tip
+
+**Use** ``-s tip``
+
+<hr>
+
+### -s stats (Stats command)
+
+Show some stats
+
+**Use** ``-s stats``
