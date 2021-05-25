@@ -80,7 +80,7 @@ All arguments can be used at the same time
 
 ### -s subscribe (Subscribe command)
 
-Add current channel to recieve Toram news
+Enable/disable auto Toram news for current channel
 
 **Use** ``-s sub``
 
